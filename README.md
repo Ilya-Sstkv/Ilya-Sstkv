@@ -1,3 +1,5 @@
+# Info
+
 - 👋 Hi, I’m @Ilya-Sstkv
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently studying at BSUIR
